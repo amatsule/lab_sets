@@ -1,0 +1,8 @@
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\bin\Debug\Set.exe.config
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\bin\Debug\Set.exe
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\bin\Debug\Set.pdb
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.csproj.AssemblyReference.cache
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.csproj.SuggestedBindingRedirects.cache
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.csproj.CoreCompileInputs.cache
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.exe
+C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.pdb
