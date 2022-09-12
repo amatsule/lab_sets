@@ -10,7 +10,7 @@ namespace Set
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.Unicode;
             // Создаем множества.
             var setA = new Set<int>()
             {
@@ -35,7 +35,7 @@ namespace Set
             PrintSet(setC, "Третье множество: ");
 
             // Выводим результирующее множество на консоль.
-            PrintSet(union, "A ⋃ B ⋃ C: ");
+            PrintSet(union, "A U B U C: ");
 
             Console.ReadLine();
         }
