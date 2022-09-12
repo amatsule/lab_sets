@@ -6,3 +6,10 @@ C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.csproj.Suggested
 C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.csproj.CoreCompileInputs.cache
 C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.exe
 C:\Users\A73379104\Documents\Git\Shwanoff_Set\Set\obj\Debug\Set.pdb
+C:\Users\janma\Documents\GitHub\lab_sets\bin\Debug\Set.exe.config
+C:\Users\janma\Documents\GitHub\lab_sets\bin\Debug\Set.exe
+C:\Users\janma\Documents\GitHub\lab_sets\bin\Debug\Set.pdb
+C:\Users\janma\Documents\GitHub\lab_sets\obj\Debug\Set.csproj.AssemblyReference.cache
+C:\Users\janma\Documents\GitHub\lab_sets\obj\Debug\Set.csproj.CoreCompileInputs.cache
+C:\Users\janma\Documents\GitHub\lab_sets\obj\Debug\Set.exe
+C:\Users\janma\Documents\GitHub\lab_sets\obj\Debug\Set.pdb
