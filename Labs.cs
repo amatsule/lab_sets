@@ -32,6 +32,8 @@ namespace Set
             var union = Set<int>.Union(setC, unionpart);
             var set1 = Set<int>.Intersection(setC, setA);
             var set2 = Set<int>.Union(set1, notB);
+            var intersection = Set<int>.Intersection(setA, setB);
+            var difference = Set<int>.Difference(setA, setB);
 
             // Выводим исходные множества на консоль.
             PrintSet(setA, "Первое множество: ");
@@ -43,6 +45,16 @@ namespace Set
             // Выводим результирующее множество на консоль.
             PrintSet(union, "A U B U C: ");
             PrintSet(set2, "C пересечение A Обьединение с не B ");
+
+            Console.ReadLine();
+
+            PrintSet(setA, "Первое множество: ");
+            PrintSet(setB, "Второе множество: ");
+
+            // Выводим результирующее множество на консоль.
+            PrintSet(unionpart, "A U B ");
+            PrintSet(intersection, "A пересечение B ");
+            PrintSet(difference, "A/B");
 
             Console.ReadLine();
         }
